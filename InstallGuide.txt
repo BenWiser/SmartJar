@@ -1,0 +1,14 @@
+You only need to do one thing to make this project work.
+
+Currently inside the lib>natives directory are all the native files required for Linux.
+
+If you are operating on a different operating system then please navigate to the 
+lwjgl-natives-2.9.3 directory and then choose the directory for your particular operating system.
+
+Then copy all those files and replace the files in the lib>natives with your needed native files.
+
+I unfortunately don't have any comments as I made this in a day to quickly get the feature out 
+so I apologize for any issues in understanding how the code is working.
+
+Inside the BlockEditor class you will find a section where I provide some default blocks to 
+show how you might place your own blocks into the program.
